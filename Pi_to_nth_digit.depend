@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1598533776 source:c:\users\milad\onedrive\desktop\pi_to_nth_digit\main.cpp
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<cmath>
+	<ios>
+	<sstream>
+
